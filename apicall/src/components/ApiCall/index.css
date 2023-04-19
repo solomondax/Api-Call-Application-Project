@@ -1,0 +1,46 @@
+.main-container {
+    list-style-type: none;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .img-tag {
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+    border: solid 4px black;
+  }
+  .sub {
+    flex-wrap: wrap;
+    display: flex;
+  }
+  
+  .dax {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+  }
+  
+  .main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .some {
+    color: red;
+  }
+  ul {
+    list-style-type: none;
+  }
+  input {
+    height: 35px;
+    width: 400px;
+  }
+  .para {
+    margin: 10px;
+    border: solid black 1px;
+  }
+  
